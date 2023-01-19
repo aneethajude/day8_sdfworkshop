@@ -20,10 +20,10 @@ public final class App {
         ArraySortExample as1 = new ArraySortExample();
         as1.example02();
 
-        // CollectionSortExample cs = new CollectionSortExample();
-        // cs.example01();
-      //  CollectionSortExample cs1 = new CollectionSortExample();
-        // cs1.example03();
+         CollectionSortExample cs = new CollectionSortExample();
+         cs.example01();
+        CollectionSortExample cs1 = new CollectionSortExample();
+         cs1.example03();
 
       //  HashMapExample hp = new HashMapExample();
         //hp.example04();
@@ -31,8 +31,15 @@ public final class App {
        // HashTableExample ht = new HashTableExample();
        // ht.example05();
 
-        ConcurrentHashMapExample hmc = new ConcurrentHashMapExample();
-        hmc.example06();
+      //  ConcurrentHashMapExample hmc = new ConcurrentHashMapExample();
+        //hmc.example06();
+
+       // LinkedListExample lle = new LinkedListExample();
+      //  lle.example07();
+      StackExample se = new StackExample();
+      se.example08();
+
+
 }
 
 }
