@@ -25,11 +25,14 @@ public final class App {
       //  CollectionSortExample cs1 = new CollectionSortExample();
         // cs1.example03();
 
-        HashMapExample hp = new HashMapExample();
-        hp.example04();
+      //  HashMapExample hp = new HashMapExample();
+        //hp.example04();
 
-        HashTableExample ht = new HashTableExample();
-        ht.example05();
+       // HashTableExample ht = new HashTableExample();
+       // ht.example05();
+
+        ConcurrentHashMapExample hmc = new ConcurrentHashMapExample();
+        hmc.example06();
 }
 
 }
