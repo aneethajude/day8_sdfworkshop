@@ -22,8 +22,14 @@ public final class App {
 
         // CollectionSortExample cs = new CollectionSortExample();
         // cs.example01();
-        CollectionSortExample cs1 = new CollectionSortExample();
-         cs1.example03();
+      //  CollectionSortExample cs1 = new CollectionSortExample();
+        // cs1.example03();
+
+        HashMapExample hp = new HashMapExample();
+        hp.example04();
+
+        HashTableExample ht = new HashTableExample();
+        ht.example05();
 }
 
 }
